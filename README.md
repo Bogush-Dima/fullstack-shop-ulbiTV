@@ -1,6 +1,6 @@
 # fullstack-shop-ulbiTV
 
-Stopped on 15:00
+Stopped on 1:10:00 (Start of frontend part)
 
 Video:
 
